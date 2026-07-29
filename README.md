@@ -27,3 +27,15 @@ A real-time hand tracking web application built using MediaPipe Hands and HTML5 
 - Multiple visual themes
 - Hand interaction games
 - Recording functionality
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/shiivanisah/Interactive-Cat-s-Cradle/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/shiivanisah/Interactive-Cat-s-Cradle/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
