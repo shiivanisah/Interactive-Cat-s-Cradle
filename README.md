@@ -38,8 +38,14 @@ A real-time hand tracking web application built using MediaPipe Hands and HTML5 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shiivanisah/Interactive-Cat-s-Cradle/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/shiivanisah/Interactive-Cat-s-Cradle/tree/master/0013-roman-to-integer) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/shiivanisah/Interactive-Cat-s-Cradle/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/shiivanisah/Interactive-Cat-s-Cradle/tree/master/0013-roman-to-integer) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/shiivanisah/Interactive-Cat-s-Cradle/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
