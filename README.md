@@ -48,4 +48,9 @@ A real-time hand tracking web application built using MediaPipe Hands and HTML5 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/shiivanisah/Interactive-Cat-s-Cradle/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/shiivanisah/Interactive-Cat-s-Cradle/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/shiivanisah/Interactive-Cat-s-Cradle/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
